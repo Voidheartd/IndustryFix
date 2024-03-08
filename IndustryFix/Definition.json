@@ -2,11 +2,12 @@
   "manifestVersion": 3,
   "id": "Voidheart.IndustryFix",
   "name": "Industry Fix",
-  "version": "1.0",
+  "version": "1.0.1",
   "requires": [
     "Zamu.StrangeCustoms"
   ],
   "mixintos": {
     "game-graph": "file(industryfix.json)"
-  }
+  },
+  "updateUrl": "https://raw.githubusercontent.com/Voidheartd/IndustryFix/main/updates.json"
 }

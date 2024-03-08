@@ -3,6 +3,10 @@
     "version": "1.0",
     "changelog": [
       {
+        "version": "1.0.1",
+        "desc": "- Added update check"
+      }
+      {
         "version": "1.0",
         "desc": "- Appalachian Hardwoods R1 unload speed increased by 50% to be faster than the consumption rate \n- Locust Pin Co BR3 unload speed increased by 50% to be faster than the consumption rate"
       }
