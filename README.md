@@ -4,6 +4,8 @@
 Corrections for industry issues including:
 - Appalachian Hardwoods R1 unload speed increased by 50% to be faster than the consumption rate
 - Locust Pin Co BR3 unload speed increased by 50% to be faster than the consumption rate
+- Connelly Creek Log storage increased to improve comaptibility with MV's Logging Cars mod
+- Connelly Creek Pulpwood P3/P4 storage increased
 
 # Installation Instructions
 1. Download and install Railloader by Zamu from here: https://railroader.stelltis.ch/
