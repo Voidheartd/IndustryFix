@@ -1,7 +1,7 @@
 {
   "manifestVersion": 5,
-  "id": "Exp232.IndustryFix2",
-  "name": "Industry Fix2",
+  "id": "Voidheart.IndustryFix",
+  "name": "Industry Fix",
   "version": "2.0",
   "requires": [
     "Zamu.StrangeCustoms"
