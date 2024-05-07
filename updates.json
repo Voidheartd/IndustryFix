@@ -1,7 +1,11 @@
 {
   "Voidheart.IndustryFix": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "changelog": [
+      {
+        "version": "1.1.0",
+        "desc": "- Appalachian Hardwoods R1 storage increased by 100% to ensure correct amounts of lumber are ordered \n- Added Strange Customs version check"
+      },
       {
         "version": "1.0.1",
         "desc": "- Added update check"

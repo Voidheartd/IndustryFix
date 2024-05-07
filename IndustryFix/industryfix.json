@@ -5,6 +5,7 @@
                 "bryson-hardwoods": {
                     "components": {
                         "r1": {
+                            "maxStorage": 600000.0,
                             "carTransferRate": 450000
                         }
                     }
