@@ -3,6 +3,7 @@
 # Description
 Corrections for industry issues including:
 - Appalachian Hardwoods R1 unload speed increased by 50% to be faster than the consumption rate
+- Appalachian Hardwoods R1 storage increased by 100% to ensure correct amounts of lumber are ordered
 - Locust Pin Co BR3 unload speed increased by 50% to be faster than the consumption rate
 
 # Installation Instructions
